@@ -82,3 +82,7 @@ a.link-bio {
     text-align: center;
     /* border-top: 10px solid lightsteelblue; */
 }
+
+.icon {
+    color: black;
+}
