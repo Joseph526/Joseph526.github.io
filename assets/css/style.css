@@ -12,6 +12,11 @@ body {
     background: url("../images/concrete_seamless.png");
 }
 
+.jumbotron {
+    color: white;
+    background: url("../images/code_background.png");
+}
+
 a.link-bio {
     color: darkblue;
 }
