@@ -12,6 +12,10 @@ body {
     background: url("../images/concrete_seamless.png");
 }
 
+.navbar {
+    background-color: lightsteelblue;
+}
+
 .jumbotron {
     color: white;
     background: url("../images/code_background.png");
