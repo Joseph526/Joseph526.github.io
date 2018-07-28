@@ -9,7 +9,8 @@ body {
     line-height: 34px;
     color: #777; */
     margin-bottom: 60px; /* Margin bottom by footer height */
-    background: url("../images/concrete_seamless.png");
+    /* background: url("../images/concrete_seamless.png"); */
+    background-color: lightsalmon;
 }
 
 .navbar {
